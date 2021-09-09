@@ -1,0 +1,6 @@
+framework module Pods_JodCard_tvOSTests {
+  umbrella header "Pods-JodCard-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

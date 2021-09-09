@@ -1,0 +1,36 @@
+
+export const GET_TOKEN = "GET_TOKEN";
+export const SAVE_TOKEN = "SAVE_TOKEN";
+export const REMOVE_TOKEN = "REMOVE_TOKEN";
+export const LOADING = "LOADING";
+export const ERROR = "ERROR";
+export const GET_USER = "GET_USER";
+export const SAVE_USER = "SAVE_USER";
+export const REMOVE_USER = "REMOVE_USER";
+export const GET_NOTIFICATION = "GET_NOTIFICATION";
+export const SAVE_NOTIFICATION = "SAVE_NOTIFICATION";
+export const UI_START_LOADING = "UI_START_LOADING";
+export const UI_STOP_LOADING = "UI_STOP_LOADING";
+export const RETURN_LOADING_STUTUS = "RETURN_LOADING_STUTUS";
+export const SET_NOTIFICATION_LIST = "SET_NOTIFICATION_LIST";
+export const SET_USER_CARD = "SET_USER_CARD";
+export const SET_ACCOUNT_STATEMENT = "SET_ACCOUNT_STATEMENT";
+export const ADD_ACCOUNT_STATEMENT = "ADD_ACCOUNT_STATEMENT";
+export const SET_ORDERS = "SET_ORDERS";
+export const ADD_ORDERS = "ADD_ORDERS";
+export const DELETE_ORDER = "DELETE_ORDER";
+export const SET_COMMENTS = "SET_COMMENTS";
+export const ADD_COMMENTS = "ADD_COMMENTS";
+export const ADD_COMMENT = "ADD_COMMENT";
+export const SET_ORDER_DETAILS = "SET_ORDER_DETAILS";
+export const ADD_PRODUCT = "ADD_PRODUCT";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const SET_PRODUCTS = "SET_PRODUCTS";
+export const DELETE_ALL = "DELETE_ALL";
+export const SET_PRODUCT_EXAMPLE = "SET_PRODUCT_EXAMPLE";
+export const SET_BOTTOM_SHEET_STATUS = "SET_BOTTOM_SHEET_STATUS";
+
+export const ADD_CARD = "ADD_CARD";
+export const DELETE_CARD = "DELETE_CARD";
+export const SET_CARD = "SET_CARD";
+export const DELETE_ALL_CARD = "DELETE_ALL_CARD";
